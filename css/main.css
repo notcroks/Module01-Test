@@ -1,0 +1,36 @@
+body {
+    background-color: #edeff2;
+}
+    
+h1, .attantion, ol, a {
+    color: #1D2D44;
+}
+h1 {
+    display: inline;
+    font-size: 50px;
+}
+img {
+    width: 40px;
+    height: 40px;
+}
+.year {
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+p {
+    color: #3E5C76;
+    font-size: 20px;
+}
+.condition {
+    display: inline;
+}
+ul {
+    list-style-type:"– ";
+    color: #646F4B;
+    font-size: 17px;
+    margin-top: 0px;
+    font-weight: 800;
+}
+a {
+    text-decoration: none;
+}
