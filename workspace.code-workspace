@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Anna block",
+			"path": "..\\Anna block"
+		},
+		{
+			"name": "BURGER",
+			"path": "..\\BURGER"
+		},
+		{
+			"name": "Module01-Test",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Anna block"
+	}
+}
